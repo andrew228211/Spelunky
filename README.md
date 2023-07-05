@@ -44,11 +44,17 @@
 
 - Nút hình tròn khi chạm sẽ nhảy cao
 
-![image](https://github.com/andrew228211/Spelunky/assets/91866098/a8e55a91-b997-47f1-8bde-fa9a2ed3db90)  dùng vũ khí đánh quái 
+![image](https://github.com/andrew228211/Spelunky/assets/91866098/a8e55a91-b997-47f1-8bde-fa9a2ed3db90)  
 
-![image](https://github.com/andrew228211/Spelunky/assets/91866098/c594ed47-8116-42c2-8306-e000a67eb59f)  dùng ném bom(bom ném ngẫu nhiên)
+- Dùng vũ khí đánh quái 
 
-![image](https://github.com/andrew228211/Spelunky/assets/91866098/dd9615ee-5ca3-4cdc-8ba6-2934ce3b08b7)  dùng để thả dây để leo
+![image](https://github.com/andrew228211/Spelunky/assets/91866098/c594ed47-8116-42c2-8306-e000a67eb59f)  
+ 
+- Dùng ném bom(bom ném ngẫu nhiên)
+
+![image](https://github.com/andrew228211/Spelunky/assets/91866098/dd9615ee-5ca3-4cdc-8ba6-2934ce3b08b7)  
+
+- Dùng để thả dây để leo
 
   *Chú ý: Khi nhân vật nhảy lên đầu quái vật thì sẽ đánh chết được quái*
   
