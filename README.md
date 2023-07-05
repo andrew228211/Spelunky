@@ -44,7 +44,9 @@
 
 - Nút hình tròn khi chạm sẽ nhảy cao
 
-![image](https://github.com/andrew228211/Spelunky/assets/91866098/a8e55a91-b997-47f1-8bde-fa9a2ed3db90) | dùng vũ khí đánh quái
+![image](https://github.com/andrew228211/Spelunky/assets/91866098/a8e55a91-b997-47f1-8bde-fa9a2ed3db90) | dùng vũ khí đánh quái |
+
+| :---------------------------------------: | :--------------------: |
 
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/c594ed47-8116-42c2-8306-e000a67eb59f) | dùng ném bom(bom ném ngẫu nhiên)
 
