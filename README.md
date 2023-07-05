@@ -32,7 +32,7 @@
 
 -Mô tả: Nhân vật được chọn ở hàng đầu và cần di chuyển nhân vật xuống cuối và tìm lối thoát ở hàng cuối thì sẽ sang level khác
 
-![image](https://github.com/andrew228211/Spelunky/assets/91866098/82940352-833e-45c4-addf-1be4eb3357f8)
+  ![image](https://github.com/andrew228211/Spelunky/assets/91866098/82940352-833e-45c4-addf-1be4eb3357f8)
 
 - Mũi tên lên: dùng để xem map bên trên khi giữ đủ 1s và nếu gặp thang hoặc dây sẽ leo thang hoặc dây để di chuyển lên trên
   
