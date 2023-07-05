@@ -36,7 +36,7 @@
 
 - Mũi tên lên: dùng để xem map bên trên khi giữ đủ 1s và nếu gặp thang hoặc dây sẽ leo thang hoặc dây để di chuyển lên trên
   
-- Mũi tên xuống: dùng để xem map bên dưới khi giữ đủ 1s và nếu gặp thang hoặc dây sẽ leo thang hoặc dây để di chuyển lên trên
+- Mũi tên xuống: dùng để xem map bên dưới khi giữ đủ 1s và nếu gặp thang hoặc dây sẽ leo thang hoặc dây để di chuyển xuống dưới
   
 - Mũi trên trái, phải dùng để di chuyển nhân vật sang trái hoặc sang bên phải
   
