@@ -1,34 +1,34 @@
 # Spelunky
 
-##1.Tổng quan
+## 1.Tổng quan
 
--Thể loại: Platform
+- Thể loại: Platform
 
--Sử dụng: Unity
+- Sử dụng: Unity
 
--Demo: [Tải Game](https://drive.google.com/drive/folders/1b3B6zlTbuIBJBsZeidri33gfddDwtctH?usp=drive_link)
+- Demo: [Tải Game](https://drive.google.com/drive/folders/1b3B6zlTbuIBJBsZeidri33gfddDwtctH?usp=drive_link)
 
-  -Play:
+  - Play:
   
   ![image](https://github.com/andrew228211/Spelunky/assets/91866098/6e189cb5-ccf1-42b0-9061-e2c51a879237)
   
-  -Hình ảnh trên điện thoại:
+  - Hình ảnh trên điện thoại:
   
   ![image](https://github.com/andrew228211/Spelunky/assets/91866098/b1179789-9eab-463b-8eb4-b0f5351858d9)
   
-##2. Đánh giá
+## 2. Đánh giá
 
--Ưu điểm:
+- Ưu điểm:
 
-  -Hệ thống cạm bấy, tính thử thách cao
+  - Hệ thống cạm bấy, tính thử thách cao
   
-  -Tự động sinh map tạo level vô hạn
+  - Tự động sinh map tạo level vô hạn
   
--Nhược điểm:
+- Nhược điểm:
 
-  -Thuật toán sinh ngẫu nhiên chưa kiểm soát dược độ khó level
+  - Thuật toán sinh ngẫu nhiên chưa kiểm soát dược độ khó level
   
-##3. Hướng dẫn chơi
+## 3. Hướng dẫn chơi
 
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/82940352-833e-45c4-addf-1be4eb3357f8)
 
@@ -41,7 +41,7 @@
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/774873a2-ac3b-4601-a4d2-8778f39995c7)
 
 - Nút hình tròn khi chạm sẽ nhảy cao
-- 
+
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/a8e55a91-b997-47f1-8bde-fa9a2ed3db90) dùng vũ khí đánh quái
 
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/c594ed47-8116-42c2-8306-e000a67eb59f) dùng ném bom(bom ném ngẫu nhiên)
