@@ -10,8 +10,8 @@
 
   - Play:
   
-  ![image](https://github.com/andrew228211/Spelunky/assets/91866098/6e189cb5-ccf1-42b0-9061-e2c51a879237)
-  
+  ![image](https://github.com/andrew228211/Spelunky/assets/91866098/3a7ae0d7-6485-4a82-9bb8-3e24d8064e28)
+
   - Hình ảnh trên điện thoại:
   
   ![image](https://github.com/andrew228211/Spelunky/assets/91866098/b1179789-9eab-463b-8eb4-b0f5351858d9)
@@ -29,6 +29,8 @@
   - Thuật toán sinh ngẫu nhiên chưa kiểm soát dược độ khó level
   
 ## 3. Hướng dẫn chơi
+
+-Mô tả: Nhân vật được chọn ở hàng đầu và cần di chuyển nhân vật xuống cuối và tìm lối thoát ở hàng cuối thì sẽ sang level khác
 
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/82940352-833e-45c4-addf-1be4eb3357f8)
 
@@ -49,6 +51,7 @@
 ![image](https://github.com/andrew228211/Spelunky/assets/91866098/dd9615ee-5ca3-4cdc-8ba6-2934ce3b08b7) dùng để thả dây để leo
 
   *Chú ý: Khi nhân vật nhảy lên đầu quái vật thì sẽ đánh chết được quái*
+  
 
 
 
