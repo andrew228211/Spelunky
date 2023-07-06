@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class GUI_LabelSolo : MonoBehaviour
+public class GUI_Label : MonoBehaviour
 {
     private TextMeshProUGUI levelText;
     private TextMeshProUGUI sumText;

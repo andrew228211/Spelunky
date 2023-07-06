@@ -35,9 +35,9 @@ public class EnterDoorState : State
         }
         Scene scene = SceneManager.GetActiveScene();
         string tmp = scene.name;
-        if (tmp.Equals("Test"))
+        if (tmp.Equals("Game"))
         {
-            tmp = "Solo";
+            tmp = "Center";
             int x = PlayerPrefs.GetInt("level",0);
             x = x + 1;
             PlayerPrefs.SetInt("level", x);
@@ -52,7 +52,7 @@ public class EnterDoorState : State
         }
         else
         {
-            tmp = "Test";
+            tmp = "Game";
         }
         SceneManager.LoadScene(tmp);
     }
